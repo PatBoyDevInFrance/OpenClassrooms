@@ -11,9 +11,5 @@
 
         }
 
-    }    
-// insert code onCreatOptionsMenu
-@Override
-    public boolean onCreateOptionsMenu(Menu menu) {
- // j'ai extrait du code pour le TP OpenClassrooms
-}     
+    } 
+// puis retrait de la fonction OnCreateOptionsMenu pour TP     
